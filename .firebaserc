@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-graph-72d08": {
+      "hosting": {
+        "goty": [
+          "firestore-graph-72d08"
+        ]
+      }
+    }
+  }
+}
